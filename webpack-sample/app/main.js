@@ -1,0 +1,1 @@
+import Animal from './Greeter';import './main.css';var dog = new Animal('server');dog.say();console.log(dog.name + 123);
